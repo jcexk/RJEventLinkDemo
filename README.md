@@ -1,11 +1,3 @@
----
-layout: post
-title: "关于MVC中消息传递的一些思考(POP方向)"
-date:  2021-04-30
-tags: []
-comments: true
-author: jcexk
----
 ## 今天要分享内容：我在MVC/MVVM架构下，如何利用最少知道原则和POP来处理C层与V层之间的用户事件。
 设计思路如下:
 ![-w656](https://github.com/jcexk/jcexk.github.io/blob/master/images/RJEventLinkDemo/16198072582547.jpg?raw=true)
